@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Login!</string>
+    <string name="app_name">Login</string>
+    <color name="green">#008000</color>
+    <color name="blue">#0000FF</color>
+    <color name="red">#FF0000</color>
+    <color name="dgrey">#808080</color>
+    <color name="grey">#C0C0C0</color>
+</resources>
